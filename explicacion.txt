@@ -1,0 +1,16 @@
+# 📚 Tablero Interactivo de Ejercicios en Python
+
+Este es un tablero interactivo desarrollado en Python utilizando Streamlit. El objetivo de este proyecto es ofrecer un conjunto de ejercicios básicos que permiten a los usuarios practicar conceptos fundamentales de programación en Python de manera interactiva.
+
+## 🚀 Características
+
+- **Saludo Simple**: Permite al usuario ingresar su nombre y recibir un saludo personalizado.
+- **Suma de Números**: Suma dos números ingresados por el usuario.
+- **Área del Triángulo**: Calcula el área de un triángulo dada su base y altura.
+- **Calculadora de Descuento**: Calcula el precio final de un producto después de aplicar un descuento y un impuesto.
+- **Suma de Lista**: Suma todos los números en una lista ingresada por el usuario.
+- **Valores Predeterminados**: Calcula el precio total de un producto basado en la cantidad y el precio por unidad, con valores predeterminados.
+- **Pares e Impares**: Clasifica los números ingresados en pares e impares.
+- **Multiplicación con *args**: Multiplica una lista de números ingresados.
+- **Información Personal**: Permite al usuario ingresar su nombre, edad y dirección, y muestra esta información.
+- **Calculadora Flexible**: Realiza operaciones matemáticas básicas (suma, resta, multiplicación, división) entre dos números.
