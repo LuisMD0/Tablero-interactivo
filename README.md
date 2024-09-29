@@ -1,5 +1,5 @@
 # Tablero-interactivo
-
+.
 import streamlit as st
 
 # Título y descripción general
